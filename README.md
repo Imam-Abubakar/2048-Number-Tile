@@ -11,7 +11,7 @@ Live Demo: https://2048.abubakardev.xyz
 - CSS3
 - Javascript
 
-Feel free to contribute to the project and don't forget to leave a star.
+Feel free to contribute to the project.
 
 
 
